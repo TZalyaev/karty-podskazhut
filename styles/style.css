@@ -26,7 +26,7 @@
 .theme_dark {
   --bg-color: #171717;
   --text-color: #b3b3b3;
-  --underline-hover-color:#80b3b3b3;
+  --underline-hover-color:rgba(179, 179, 179, 0.5);
   --accent-color:transparent;
   --main-font: 'Raleway';
   --accent-font: 'STIX Two Text';
