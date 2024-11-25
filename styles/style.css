@@ -1,7 +1,7 @@
 :root {
   --bg-color: #F3EFEC;
   --text-color: #312A4E;
-  --underline-hover-color:#80312A4E;
+  --underline-hover-color:rgba(49, 42, 78, 0.5);
   --accent-color:#FFAB6B;
   --main-font: 'Raleway';
   --accent-font: 'STIX Two Text';
